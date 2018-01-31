@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Flex_Console.cpp
+Flex_Console.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Flex_Console.vcxproj -> C:\Users\huzhu\CPlusPlusWorkSpace\VSWorkSapce\SDK\Examples\C++\Flex_Console\..\bin\Win32\Debug\Flex_Console.exe
